@@ -39,6 +39,3 @@ This library makes use of `document.addEventListener( "keyup")` so if you add an
 Send me a message on Patreon if you'd like support with easyToast.
 
 [https://www.patreon.com/CttCJim](url)
-
-# Future Development
-At present, this is a VERY simple version of easyToast. It lets Bootstrap decide the duration to show the message for and only displays in the bottom right. In the future, I will add a duration argument and allow the user to customize display location.
