@@ -29,8 +29,8 @@ In its raw form, the listener will wait for an "Enter" keyup, then look at the `
 >
 ```
 
-##Customization
+## Customization
 I've included comments in `CttCJim_keyListener.js` that show how to add listeners for other keys, or how to add more options to the existing Enter Key listener.
 
-##Compatibility
+## Compatibility
 This library makes use of `document.addEventListener( "keyup")` so if you add any other `keyup` listener at the document level it may break.
