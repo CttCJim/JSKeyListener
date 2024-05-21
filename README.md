@@ -1,6 +1,6 @@
 # JSKeyListener
 
-##Overview
+## Overview
 Listens for keypresses on a webpage, then processes them according to element properties.
 
 This is a short library designed to be used as a framework for my (and your) HTML/JS projects.
