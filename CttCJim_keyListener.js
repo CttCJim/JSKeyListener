@@ -1,7 +1,9 @@
-//CttCJim_keyListener.js
-//by James Reinsch
-//Free for use, GPL 3 license
-//https://github.com/CttCJim/JSKeyListener
+//////////////////////////////////////////////////////
+/*  CttCJim_keyListener.js                          */
+/*  by James Reinsch                                */
+/*  Free for use, GPL 3 license                     */
+/*  https://github.com/CttCJim/JSKeyListener        */
+//////////////////////////////////////////////////////
 
 function CttCJim_setUpKeyListener() {
 	document.addEventListener( "keyup", CttCJim_KeyListener );
