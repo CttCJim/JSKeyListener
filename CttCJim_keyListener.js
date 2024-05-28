@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////
 /*  CttCJim_keyListener.js                          */
 /*  by James Reinsch                                */
-/*  Free for use, GPL 3 license                     */
+/*  GNU General Public License v3.0                 */
 /*  https://github.com/CttCJim/JSKeyListener        */
 //////////////////////////////////////////////////////
 
